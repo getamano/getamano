@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aman
-- 📫 How to reach me getamanh@gmail.com, www.amanhordofo.com 
+- 📫 How to reach me getamanh@gmail.com
 
 <!---
 getamano/getamano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
