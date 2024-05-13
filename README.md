@@ -7,13 +7,16 @@ I'm Aman, an Application Developer, and instructor. I've been working in tech si
 
 ____
 
-### 📝 Recent Blog
-- coming soon.
 
+### 📝  Certifications
+
+| Microsoft Azure    | Amazon AWS  |
+| --------- | --------- |
+| <img src="https://github.com/getamano/getamano/blob/main/aws.png" width="100">  | <img src="https://github.com/getamano/getamano/blob/main/azure.png" width="100">  |
 
 ____
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
 
@@ -50,6 +53,7 @@ Tools:
 ![JFrog](https://img.shields.io/badge/-JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white)
 
 IDEs:
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
