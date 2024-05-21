@@ -5,15 +5,17 @@ My name is Aman Hordofo, and I’m a software engineer with over 17 years of exp
 I have a Bachelor of Science in Computer Science. I am very passionate about Software Development, Cloud Technologies & AI. I’m a husband & father of 4 awesome kiddos.
 
 
-[![Linkedin: ahordofo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahordofo/)](https://www.linkedin.com/in/ahordofo/) | [My Resume](https://getamano.github.io/Resume/)
+[![Linkedin: ahordofo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahordofo/)](https://www.linkedin.com/in/ahordofo/) 
+
+[My Resume](https://getamano.github.io/Resume/)
 ____
 
 
 ### 📝  Certifications
 
-| Microsoft Azure    | Amazon AWS  |
-| --------- | --------- |
-| <img src="https://github.com/getamano/getamano/blob/main/aws.png" width="100">  | <img src="https://github.com/getamano/getamano/blob/main/azure.png" width="100">  |
+| Microsoft Azure    | Amazon AWS  | GitHub Foundations|
+| --------- | --------- | :---------: |
+| <a href="https://www.credly.com/badges/7c4471e6-c1e5-4dae-8104-783a051a24e6" target="_blank"><img src="https://getamano.github.io/Resume/aws.png" width="100"></a>  | <a href="https://www.credly.com/badges/7f2a8347-b66c-46a8-8ac0-e8e1fc5a0c94" target="_blank"><img src="https://getamano.github.io/Resume/azure.png" width="100"></a>  | <a href="42c9e85db38c" target="_blank"><img src="https://getamano.github.io/Resume/github-foundation.png" width="100"></a>  |
 
 ____
 
