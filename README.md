@@ -2,7 +2,6 @@
 
 My name is Aman Hordofo, and I’m a software engineer with over 17 years of experience, currently working for the state government as a Senior Application Developer at the State of Minnesota and an adjunct instructor at Minnesota’s colleges and universities.
 
-I have a Bachelor of Science in Computer Science. I am very passionate about Software Development, Cloud Technologies & AI. I’m a husband & father of 4 awesome kiddos.
 
 
  [![Linkedin: ahordofo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahordofo/)](https://www.linkedin.com/in/ahordofo/)  [![Resume: ahordofo](https://img.shields.io/badge/-Resume-8A2BE2?style=flat-square&logo=blog&logoColor=white&link=[https://www.linkedin.com/in/ahordofo](https://getamano.github.io/Resume/)/)](https://getamano.github.io/Resume/) 
