@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Aman Hordofo
+### Hi there 👋 I'm Aman 
 
-I am a **Principal Software Engineer at Medtronic** and an **Adjunct Instructor** at Minnesota’s colleges and universities. With over 17 years of experience designing, architecting, and leading enterprise-grade systems, I specialize in building next-generation web applications, cloud-native solutions, and advanced AI-driven technologies (such as RAG and Agentic AI systems).
+I am a **Principal Software Engineer at Medtronic** and an **Adjunct Instructor** at Minnesota’s colleges and universities. With over 20 years of experience designing, architecting, and leading enterprise-grade systems, I specialize in building next-generation web applications, cloud-native solutions, and advanced AI-driven technologies (such as RAG and Agentic AI systems).
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amanho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
